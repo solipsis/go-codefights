@@ -1,4 +1,3 @@
-# go-codefights
 # codefights.com solutions in go
 https://codefights.com/profile/solipsis
 
