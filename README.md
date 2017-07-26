@@ -3,9 +3,9 @@ https://codefights.com/profile/solipsis
 
 | Section | Description |
 | --- | --- |
-| [DailyChallenges](dailyChallenges/) | Daily golf(fewest character) challenges |
+| [Interview Practice](interviewPractice/) | Interview practice problems |
 | [Arcade(Intro)](arcade/intro) | Easier problems from the arcade section |
 | [Arcade(Core)](arcade/core) | Problems from the arcade section |
-| [InterviewPractice](interviewPractice/) | Interview practice problems |
+| [Daily Challenges](dailyChallenges/) | Daily golf(fewest character) challenges |
 | [Tournaments](tournaments/) | Problems from the monthly marathon tournaments |
 
