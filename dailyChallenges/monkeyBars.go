@@ -41,3 +41,16 @@ func helper(n int, memo []int64) int64 {
     memo[n] = v
     return v
 }
+
+// Super golfed solution
+var m =[61]int64 {0, 1,2,4}
+func monkeyBars(n int) int64 {
+    f := monkeyBars
+   
+    if m[n] > 0 {
+        return m[n]
+    }
+    m[n] = f(n-1) + f(n-2) + f(n-3)
+    
+    return m[n]
+}
