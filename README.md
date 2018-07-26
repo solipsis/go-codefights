@@ -1,4 +1,4 @@
-# Soultions to problems from codefights.com written in Go
+# Solutions to problems from codefights.com written in Go
 https://codefights.com/profile/solipsis
 
 | Section | Description |
